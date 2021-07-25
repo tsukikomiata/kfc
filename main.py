@@ -57,6 +57,8 @@ class Receipt(QWidget, Ui_Form):
         super().__init__()
         self.setupUi(self)
 
+class Dialogue(QWidget, )
+
 
 if __name__ == '__main__':
     app = QApplication(sys.argv)
